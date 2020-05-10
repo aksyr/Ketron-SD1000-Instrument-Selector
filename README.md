@@ -6,6 +6,6 @@ _Introducing **Ketron SD1000 Instrument Selector** by aksyr!_
 Now by easily connecting your **Ketron SD1000** directly to a PC (or indirectly using MIDI THRU on your MIDI device of choice) you can 
 comfortably enjoy vast selection of finely crafted sounds hidden inside this neat piece of sound hardware.
 <br><br>
-Download **Ketron SD1000 Instrument Selector** by aksyr **NOW!**
+**Ketron SD1000 Instrument Selector** by aksyr **[Download NOW!](https://github.com/aksyr/Ketron-SD1000-Instrument-Selector/releases/download/1.0/Ketron.SD1000.Sound.Selector.by.aksyr.Win.edition.zip)**
 
 ![sample](https://github.com/aksyr/Ketron-SD1000-Instrument-Selector/raw/master/Assets/icon.png)
