@@ -14,3 +14,8 @@ Screenshots
 -----
 ![sample](https://github.com/aksyr/Ketron-SD1000-Instrument-Selector/raw/master/Assets/screenshot1.PNG)
 ![sample](https://github.com/aksyr/Ketron-SD1000-Instrument-Selector/raw/master/Assets/screenshot2.PNG)
+
+Dependencies
+------------
+* [RtMidi](https://github.com/thestk/rtmidi)
+* [Dear ImGui](https://github.com/ocornut/imgui)
