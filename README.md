@@ -9,3 +9,8 @@ comfortably enjoy vast selection of finely crafted sounds hidden inside this nea
 **Ketron SD1000 Instrument Selector** by aksyr **[Download NOW!](https://github.com/aksyr/Ketron-SD1000-Instrument-Selector/releases/download/1.0/Ketron.SD1000.Sound.Selector.by.aksyr.Win.edition.zip)**
 
 ![sample](https://github.com/aksyr/Ketron-SD1000-Instrument-Selector/raw/master/Assets/icon.png)
+
+Screenshots
+-----
+![sample](https://github.com/aksyr/Ketron-SD1000-Instrument-Selector/raw/master/Assets/screenshot1.PNG)
+![sample](https://github.com/aksyr/Ketron-SD1000-Instrument-Selector/raw/master/Assets/screenshot2.PNG)
