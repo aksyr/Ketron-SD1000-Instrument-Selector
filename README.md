@@ -1,5 +1,5 @@
 # Ketron SD1000 Instrument Selector <br><sup><h6>_by aksyr_</h6></sup>
-Imagine that you have your fancy programmable midi controller, but it doesn't allow sending MIDI Program Change messages with encoders. How would you access 500+ instruments on your new, fancy Ketron SD1000?
+Imagine that you have your fancy programmable midi controller, but it doesn't support sending MIDI Program Change messages with its encoders. How would you access 500+ instruments on your new, fancy Ketron SD1000?
 <br><br>
 _Introducing **Ketron SD1000 Instrument Selector** by aksyr!_
 <br><br>
